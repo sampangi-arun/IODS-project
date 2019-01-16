@@ -1,6 +1,10 @@
-
-# Introduction to OpenDataScience2018
+---
+title: "ReadMe"
+author: "arun sampangi"
+date: "January 10, 2019"
+output: github_document
+---
 
 *Datascience is growing as a hottest field in 21st century. University of Helsinki believes in education for all motto, in view of that it offers a datascience course as MOOC which is flexible to both students and industry professionals.*
 
-[Github project document](https://sampangi-arun.github.io/IODS-project/)
+
